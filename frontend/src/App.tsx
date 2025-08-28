@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Shield } from 'lucide-react';
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
 import { URLInput } from './components/URLInput';
